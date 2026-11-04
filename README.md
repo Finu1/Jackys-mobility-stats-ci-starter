@@ -536,6 +536,7 @@ Ist der Code lint-clean?
 Ist der Code korrekt formatiert?
 Besteht die vorhandene Test-Suite?
 ```
+ja
 
 ---
 
